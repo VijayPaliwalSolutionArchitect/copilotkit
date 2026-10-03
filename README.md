@@ -4,7 +4,7 @@
 >
 > Upstream: [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) Commit: `e8d096b9`
 >
-> This repository contains a clean, rebranded fork of an upstream open-source project. All upstream copyrights and licenses are preserved. See NOTICE.md and LICENSE for details.
+> This repository contains a clean, rebranded fork of an upstream open-source project. All upstream copyrights and licenses are preserved. See NOTICE.md and LICENSE for details. For why this fork exists and what it demonstrates, see [FORK.md](FORK.md).
 >
 > **Website:** https://shivamitcs.in  **Contact:** MD@ShivamITConsultancy.com
 
