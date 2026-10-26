@@ -12,20 +12,20 @@ We love community contributions! That said, we want to make sure we're all on th
 Investing a lot of time and effort just to find out it doesn't align with the upstream project feels awful, and we don't want that to happen.
 It also helps to make sure the work you're planning isn't already in progress.
 
-As described below, please file an issue first: https://github.com/ag-ui-protocol/ag-ui/issues
-Or, reach out to us on Discord: https://discord.com/invite/6dffbvGU3D
+As described below, please file an issue first: https://github.com/VijayPaliwalSolutionArchitect/copilotkit/issues
+Or, reach out to us on Discord: https://discord.gg/6dffbvGU3D
 
 Ready to contribute but seeking guidance, we have several avenues to assist you. Explore the upcoming segment for clarity on the kind of contributions we appreciate and how to jump in. Reach out to us directly on [Discord](https://discord.gg/6dffbvGU3D) for immediate assistance! Alternatively, you're welcome to raise an issue and one of our dedicated maintainers will promptly steer you in the right direction!
 
 ## Found a bug?
 
-If you find a bug in the source code, you can help us by [submitting an issue](https://github.com/CopilotKit/CopilotKit/issues/new?assignees=&labels=bug&projects=&template=bug_report.yaml) to our GitHub Repository. Even better, you can submit a Pull Request with a fix.
+If you find a bug in the source code, you can help us by [submitting an issue](https://github.com/VijayPaliwalSolutionArchitect/copilotkit/issues/new?assignees=&labels=bug&projects=&template=bug_report.yaml) to our GitHub Repository. Even better, you can submit a Pull Request with a fix.
 
 ## Missing a feature?
 
-So, you've got an awesome feature in mind? Throw it over to us by [creating an issue](https://github.com/CopilotKit/CopilotKit/issues/new?assignees=&labels=feature-request&projects=&template=feature_request.yaml) on our GitHub Repo.
+So, you've got an awesome feature in mind? Throw it over to us by [creating an issue](https://github.com/VijayPaliwalSolutionArchitect/copilotkit/issues/new?assignees=&labels=feature-request&projects=&template=feature_request.yaml) on our GitHub Repo.
 
-If you don't feel ready to make a code contribution yet, no problem! You can also check out the [documentation issues](https://github.com/CopilotKit/CopilotKit/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation).
+If you don't feel ready to make a code contribution yet, no problem! You can also check out the [documentation issues](https://github.com/VijayPaliwalSolutionArchitect/copilotkit/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation).
 
 ## Contributing to documentation
 
@@ -44,7 +44,7 @@ Merged docs changes update [docs staging](https://docs.staging.copilotkit.ai). P
 Are you new to open-source contribution? Wondering how contributions work in our project? Here's a quick rundown.
 
 Find an issue that you're interested in addressing, or a feature that you'd like to add.
-You can use [this view](https://github.com/CopilotKit/CopilotKit/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) which helps new contributors find easy gateways into our project.
+You can use [this view](https://github.com/VijayPaliwalSolutionArchitect/copilotkit/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) which helps new contributors find easy gateways into contributing.
 
 ## Step 1: Make a fork
 
@@ -198,7 +198,7 @@ fix(server): missing entity on init
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
-[Code of Conduct](https://github.com/CopilotKit/CopilotKit/blob/main/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/VijayPaliwalSolutionArchitect/copilotkit/blob/main/CODE_OF_CONDUCT.md)
 
 Our Code of Conduct means that you are responsible for treating everyone on the project with respect and courtesy.
 

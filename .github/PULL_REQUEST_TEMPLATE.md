@@ -16,7 +16,7 @@ As described in our contributing guide, please file an issue first: https://gith
 Or, reach out to us on Discord: https://discord.com/invite/6dffbvGU3D
 
 
-You can learn more about contributing to copilotkit here: https://github.com/copilotkit/copilotkit/blob/master/CONTRIBUTING.md
+You can learn more about contributing to copilotkit here: https://github.com/VijayPaliwalSolutionArchitect/copilotkit/blob/master/CONTRIBUTING.md
 
 Happy contributing!
 
@@ -32,6 +32,6 @@ Happy contributing!
 
 ## Checklist
 
-- [ ] I have read the [Contribution Guide](https://github.com/copilotkit/copilotkit/blob/master/CONTRIBUTING.md)
+- [ ] I have read the [Contribution Guide](https://github.com/VijayPaliwalSolutionArchitect/copilotkit/blob/master/CONTRIBUTING.md)
 - [ ] If the PR changes or adds functionality, I have updated the relevant documentation
 - [ ] "Allow edits by maintainers" is checked (lets us help iterate on your PR directly — faster turnaround for everyone)
