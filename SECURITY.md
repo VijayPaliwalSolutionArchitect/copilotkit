@@ -1,13 +1,18 @@
 # Security Policy
 
-At **CopilotKit**, we are continuously working to improve not only the product but also the open-source repository. To achieve this, we encourage you to take some time to responsibly disclose any issues you may encounter.
+This repository is a **SHIVAM ITCS fork** of CopilotKit/CopilotKit.
+It is maintained by SHIVAM ITCS (MD, Vijay Paliwal), not by the CopilotKit
+upstream team. Vulnerability reports filed here must reach a SHIVAM ITCS
+maintainer — upstream channels do not.
 
 ## Reporting a Vulnerability
 
-We hope this product meets your expectations. However, if you notice anything that seems off, please feel free to report the issue by following the steps below:
-
 1. **Contact Information**:
-   - Email: [security@copilotkit.ai](mailto:security@copilotkit.ai)
+   - Email: [MD@ShivamITConsultancy.com](mailto:MD@ShivamITConsultancy.com)
+   - GitHub: file a private issue via
+     [github.com/VijayPaliwalSolutionArchitect/copilotkit](https://github.com/VijayPaliwalSolutionArchitect/copilotkit)
+     (this routes to the fork maintainer; do **not** file at
+     `CopilotKit/CopilotKit`, where SHIVAM ITCS has no standing)
 
 2. **Required Information**:
    - A detailed description of the vulnerability
@@ -16,27 +21,43 @@ We hope this product meets your expectations. However, if you notice anything th
    - Any possible mitigations or workarounds
 
 3. **Preferred Method of Disclosure**:
-   <br>
-   Since our community operates in a public domain, please **do not** discuss the details of the vulnerability publicly. When escalating the issue, simply mention that you are trying to reach someone from the security team.
+   Since this is a fork, **do not** discuss the details of the vulnerability
+   in public on upstream channels. When escalating, simply mention that you
+   are trying to reach someone from SHIVAM ITCS.
 
 ## Response Process
 
-- **Acknowledgment**: Within 48 hours of receiving your report, we will acknowledge your submission.
+- **Acknowledgment**: Within 48 hours of receiving your report, we will
+  acknowledge your submission.
 - **Investigation**: We will investigate the issue within 5 business days.
-- **Resolution**: We aim to release a fix or mitigation within 30 days of confirming the vulnerability.
+- **Resolution**: We aim to release a fix or mitigation within 30 days of
+  confirming the vulnerability.
 
 ### Note
 
-**If you do not receive an acknowledgment of your email within 48 hours, and you haven’t heard from our security team after 5 days, please directly message someone from the CopilotKit team in our [Discord community](https://discord.gg/6dffbvGU3D).**
+**If you do not receive an acknowledgment of your email within 48 hours,
+and you haven't heard from us after 5 days, please file a follow-up issue
+on this repository's GitHub** — that is the channel that routes directly
+to the fork maintainer.
 
 ## Security Best Practices
 
-While we strive to keep our project secure, here are a few best practices for users of our software:
+While we strive to keep this project secure, here are a few best practices
+for users of this software:
 
 - Always keep your installation up to date with the latest security patches.
 - Avoid using outdated or unsupported versions of the project.
 - Regularly audit your dependencies and review their security advisories.
 
+## What this fork is not
+
+This is a pinned-source reference fork, not a product with a dedicated
+security team. Upstream (CopilotKit/CopilotKit) maintains its own security
+policy at `CopilotKit/CopilotKit#SECURITY`; vulnerabilities in upstream
+source should be reported there. This policy covers the fork's maintenance
+and rebranding layer only.
+
 ---
 
-Thank you for helping us maintain the security and integrity of this project.
+**SHIVAM ITCS** — 18+ years of .NET Core, Azure and agentic AI systems.
+Web: https://shivamitcs.in · Contact: MD@ShivamITConsultancy.com
